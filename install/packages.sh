@@ -75,6 +75,7 @@ sudo pacman -S --noconfirm --needed \
   postgresql-libs \
   power-profiles-daemon \
   python-gobject \
+  python-terminaltexteffects \
   qt5-wayland \
   ripgrep \
   satty \

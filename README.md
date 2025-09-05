@@ -38,7 +38,6 @@ My configuration of Omarchy has some differences. These include:
 | omarchy-chromium              | Removed |
 | pinta                         | Removed |
 | python-poetry-core            | Removed |
-| python-terminaltexteffects    | Removed |
 | signal-desktop                | Removed |
 | spotify                       | Removed |
 | xournalpp                     | Removed |
